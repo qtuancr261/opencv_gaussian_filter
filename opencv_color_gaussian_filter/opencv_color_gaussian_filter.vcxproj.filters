@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="opencv_grayscale_gaussian_filter.cpp">
+    <ClCompile Include="opencv_color_gaussian_filter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

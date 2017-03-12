@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F1C60EE8-7846-46E6-894E-2240924EC036}</ProjectGuid>
+    <ProjectGuid>{DC962E8B-B56E-40FD-9BC1-5C40B52DA89B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>opencv_grayscale_gaussian_filter</RootNamespace>
+    <RootNamespace>opencv_color_gaussian_filter</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="opencv_grayscale_gaussian_filter.cpp" />
+    <ClCompile Include="opencv_color_gaussian_filter.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
